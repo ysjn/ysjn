@@ -1,6 +1,6 @@
 ### Hi! I'm Jun Yoshida(aka ysjn) 👋
-Web UX Engineer / Designer based in Japan 🗼 🗻
-If you are interested, visit [my portfolio site](jyw.vercel.app).
+Web UX Engineer / Designer based in Japan 🗼 🗻 <br/>
+If you are interested, visit [my portfolio site](https://jyw.vercel.app).
 
 ### Skills
 *(*ones that are confident enough)*
