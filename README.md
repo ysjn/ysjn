@@ -188,13 +188,25 @@ Passionate about creating intuitive and beautiful web experiences. I love workin
     />
   </a>
   <a
-    href="https://github.com/puppeteer/puppeteer"
+    href="https://pptr.dev/"
     target="_blank"
     rel="noreferrer"
   >
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg"
       alt="puppeteer"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://playwright.dev/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
+      alt="playwright"
       width="40"
       height="40"
     />
