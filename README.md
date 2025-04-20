@@ -11,7 +11,7 @@ Passionate about creating intuitive and beautiful web experiences. I love workin
 
 #### Basics
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -19,7 +19,7 @@ Passionate about creating intuitive and beautiful web experiences. I love workin
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -27,8 +27,16 @@ Passionate about creating intuitive and beautiful web experiences. I love workin
       height="40"
     />
   </a>
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/pug.svg"
+      alt="pug"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://developer.mozilla.org/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
   >
@@ -43,14 +51,6 @@ Passionate about creating intuitive and beautiful web experiences. I love workin
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/pug.svg"
-      alt="pug"
       width="40"
       height="40"
     />
