@@ -5,7 +5,7 @@ Passionate about creating intuitive and beautiful web experiences. I love workin
 
 ### Skills
 
-*(*ones that are confident enough)\*
+(\*ones that are confident enough)
 
 <p>
 
@@ -110,6 +110,14 @@ Passionate about creating intuitive and beautiful web experiences. I love workin
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg"
       alt="webpack"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+      alt="vite"
       width="40"
       height="40"
     />
