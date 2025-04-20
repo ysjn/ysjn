@@ -220,7 +220,7 @@ Passionate about creating intuitive and beautiful web experiences. I love workin
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-line.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
       alt="photoshop"
       width="40"
       height="40"
